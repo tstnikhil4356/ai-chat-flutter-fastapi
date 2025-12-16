@@ -74,6 +74,10 @@ The application has been tested on an **Android emulator** as well as a **physic
 - Works on emulator and real Android device  
 
 ---
+## PRoject User Interface
+
+![](assets/img1.jpg)
+![](assets/img2.jpg)
 
 ## 🖥️ Project Structure
 
@@ -105,3 +109,6 @@ python -m uvicorn main:app --host 0.0.0.0 --port 8000
 cd flutter_app
 flutter pub get
 flutter run
+
+
+
