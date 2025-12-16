@@ -105,3 +105,6 @@ python -m uvicorn main:app --host 0.0.0.0 --port 8000
 cd flutter_app
 flutter pub get
 flutter run
+
+
+![](img1.jpg) ![](img1.jpg)
