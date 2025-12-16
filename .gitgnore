@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+venv/
+.env
+
+# Flutter / Dart
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+.dart_tool/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# macOS
+.DS_Store
